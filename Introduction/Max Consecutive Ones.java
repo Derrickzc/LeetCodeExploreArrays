@@ -48,7 +48,7 @@ class Solution {
     }
 }
 
-s
+
 
 //最短的时间
 class Solution {
